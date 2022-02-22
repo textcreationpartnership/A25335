@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Ancient laws, customs, and orders of the miners in the King's forrest of Mendipp, in the county of Somerset</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25335</idno>
+            <idno type="STC">Wing A3069</idno>
+            <idno type="STC">ESTC R12879</idno>
+            <idno type="EEBO-CITATION">12203370</idno>
+            <idno type="OCLC">ocm 12203370</idno>
+            <idno type="VID">56139</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25335)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56139)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 118:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Ancient laws, customs, and orders of the miners in the King's forrest of Mendipp, in the county of Somerset</title>
+               </titleStmt>
+               <extent>[2], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Cooper ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lead miners --  England --  Somerset --  Legal status, laws, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56139:1" rendition="simple:additions"/>
+            <p>THE ANCIENT LAWS, Cuſtoms <hi>and</hi> Orders OF THE MINERS IN THE King's Forreſt of <hi>Mendipp</hi> In the County of <hi>SOMERSET.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Cooper</hi> at the <hi>Pellican</hi> in <hi>Little Britain.</hi> 1687.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:56139:2"/>
+            <pb n="1" facs="tcp:56139:2"/>
+            <head>The Laws and Orders of the <hi>Mendipp</hi> Miners.</head>
+            <p>BE it known that this is a true Copy of the Inrolled in the King's Exche<g ref="char:EOLhyphen"/>quer in the time of King <hi>Edward</hi> the Fourth, of a debate that was in the County of <hi>Somerſet,</hi> between the Lord <hi>Benfield</hi> and the Tennants of <hi>Chewton,</hi> and the Prior of <hi>Green Oare:</hi> the ſaid Prior complaining unto the King of great Injuries and wrongs that he had upon <hi>Mendipp,</hi> being the King's Forreſt, the ſaid King <hi>Edward</hi> commanded the Lord <hi>Chock,</hi> the Lord Chief Juſtice of <hi>England</hi> to go down into the County of <hi>Somer<g ref="char:EOLhyphen"/>ſet</hi> to <hi>Mendipp,</hi> and ſit in Concord and Peace in the ſaid County concerning <hi>Mendipp,</hi> upon pain of high diſpleaſure. The ſaid Lord <hi>Chock</hi> ſate upon <hi>Mendipp</hi> on a place of my Lords of <hi>Bath,</hi> called the <hi>Forge:</hi> Whereas he commanded all the Commoners to appear, and eſpecially
+<pb n="2" facs="tcp:56139:3"/>the four Lords Royals of <hi>Mendipp</hi> (that is to ſay) the Biſhop of <hi>Bath,</hi> my Lord of <hi>Glaſton,</hi> my Lord <hi>Benfield</hi> the Lord of <hi>Chewton,</hi> and my Lord of <hi>Rich<g ref="char:EOLhyphen"/>mond,</hi> with all the appearance to the Number of ten thouſand People. A Proclamation was made to enquire of all the Company how they would be orde<g ref="char:EOLhyphen"/>red, then they with one conſent made anſwer, that they would be ordered and tryed by the four Lords of the Royal<g ref="char:EOLhyphen"/>ties; And then the four Lords Royals were agreed, that the Comminers of <hi>Mendipp</hi> ſhould turn out their Cattle at their out-lets as much the Summer as they be able to Winter, without hownding or pounding upon whoſe grounds ſoever they went to take their courſe and recourſe. To which the ſaid four Lords Royals did put their Seals, and were alſo agreed, that whoſoever ſhould break the ſaid Bonds ſhould for<g ref="char:EOLhyphen"/>feit to the King a thouſand Marks, and all the Comminers their bodys and goods to be at the King's Pleaſure or Command that doth either hound or pound.</p>
+            <div type="part">
+               <pb n="3" facs="tcp:56139:3"/>
+               <head>The old Ancient Occupation of Mi<g ref="char:EOLhyphen"/>ners in and upon <hi>Mendipp,</hi> be<g ref="char:EOLhyphen"/>ing the King's Forreſt of <hi>Men<g ref="char:EOLhyphen"/>dipp</hi> within the County of <hi>So<g ref="char:EOLhyphen"/>merſet,</hi> being one of the four Staples of <hi>England,</hi> which have been exerciſed, uſed and conti<g ref="char:EOLhyphen"/>nued through the ſaid Forreſt of <hi>Mendipp,</hi> from the time where of no man living hath not memory, as hereafter doth particularly enſue the Order.</head>
+               <p n="1">1. FIrſt, that if any man whatſoever he be, that doth intend to ven<g ref="char:EOLhyphen"/>ture his Life to be a Workman in the ſaid Occupation, he muſt firſt of all crave Licence of the Lord of the Soyle where he doth purpoſe to work, and in his ab<g ref="char:EOLhyphen"/>ſence of his Officers as the Lead Reave or Bailiff and the Lord, neither his Offi<g ref="char:EOLhyphen"/>cers can deny him.</p>
+               <p n="2">2. <hi>Item,</hi> That after the firſt Licence had, the Workman ſhall never need to
+<pb n="4" facs="tcp:56139:4"/>ask leave again but to be at his free will, to pitch within the Forreſt, and to brake the ground where and in what place it ſhall pleaſe him to his behalf and profit, uſing himſelf truſtily &amp; truly.</p>
+               <p n="3">3. <hi>Item,</hi> If any man that doth begin to pitch or groof ſhall have his Hackes through two ways after the Rake. Note that he that doth throw the Hacke muſt ſtand to the girdle or waſt in the ſame groof, and then no Man ſhall or may work within his Hackes Throwe, provided always that no Man ſhall or can keep but his wet and dry Groof and his Mark.</p>
+               <p n="4">4. <hi>Item,</hi> That when a Workman have landed his Oar he may carry the ſame to cleanſing or blowing to what Minery it ſhall pleaſe him for the ſpeedy making out of the ſame. So that he doth truly pay the Lord of the Soyle where it was landed his due, which is the tenth part thereof.</p>
+               <p n="5">5. <hi>Item,</hi> That if any Lord or Officer
+<pb n="5" facs="tcp:56139:4"/>hath once given Licence to any man to build, or ſet up any Hearth or Waſhing-houſe, to waſh, cleanſe or blow Oar, he that once hath leave ſhall keep it for ever, or give it to whom he will, ſo that he doth juſtly pay his Lott Lead, which is the tenth pound, which ſhall be blown at the Hearth or Hearths, and alſo that he doth keep it tennantable as the Cuſ<g ref="char:EOLhyphen"/>tome doth require.</p>
+               <p n="6">6. <hi>Item,</hi> That if any man of that Oc<g ref="char:EOLhyphen"/>cupation doth pick or ſteal any Ledd or Oare to the value of thirteen pence half<g ref="char:EOLhyphen"/>penny, the Lord or his officer may ar<g ref="char:EOLhyphen"/>reſt all his Lead works, Houſe and Hearth, with all his Groofs and Works, and keep them as ſafely to his own uſe, and ſhall take the Perſon that hath ſo offen<g ref="char:EOLhyphen"/>ded, and bring him where his Houſe is, or his Work, and all his Tools or In<g ref="char:EOLhyphen"/>ſtruments to the Occupation belongs as he uſeth, and put him into the ſaid Houſe and ſet fire on all together about him, and baniſh him from that Occupa<g ref="char:EOLhyphen"/>tion before the Miners for ever.</p>
+               <p n="7">
+                  <pb n="6" facs="tcp:56139:5"/> 7. <hi>Item,</hi> If that Perſon doth pick or ſteal there any more, he ſhall be tryed by the Law, for this Law and Cuſtome hath no more to do with him.</p>
+               <p n="8">8. <hi>Item,</hi> That every Lord of the Soyle ought to keep two Miner Courts by the year, and to ſwear twelve Men of the ſame Occupation, for the redreſs of Miſdemeanors touching the Mineries.</p>
+               <p n="9">9. <hi>Item,</hi> That the Lord or Lords may make and grant manner of Arreſts <hi>(viz.)</hi> firſt for ſtrife between Man and Man, for their Works under the Ground or Earth. Secondly for his own dutys for Lead or Oare, whereſoever he findeth it upon the ſame Forreſt.</p>
+               <p n="10">10. <hi>Item,</hi> That if any man by means of Misfortune take his death, as by fal<g ref="char:EOLhyphen"/>ling of the Earth upon him, by drawing or ſtifeling, or otherwiſe, as in time paſt many have been, the Workmen of the ſame Occupation are bound to ſetch him out of the Earth, and to bring
+<pb n="7" facs="tcp:56139:5"/>him to Chriſtian Burial at their own coſts and charges, although he be forty Fathome under the Earth, as hereto<g ref="char:EOLhyphen"/>fore hath been done, and the Coroner or any officer at large ſhall not have to do with him in any reſpect.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
